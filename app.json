@@ -1,10 +1,10 @@
 {
-  "name": "este-app",
-  "description": "Robust and comfortable dev stack for isomorphic web apps",
+  "name": "react-immutable-flux-login-app",
+  "description": "Using Este.js to construct production app with React/ES6/Flux/Immutable",
   "env": {
    "NODE_ENV": "production"
   },
-  "repository": "https://github.com/steida/este",
+  "repository": "https://github.com/masterfung/react-immutable-flux-login",
   "logo": "https://cloud.githubusercontent.com/assets/66249/5931133/9e973dfc-a699-11e4-83bc-7b5c6fb58bfd.jpeg",
   "keywords": ["este", "flux", "gulp", "immutable", "isomorphic", "node", "react", "webpack"]
 }

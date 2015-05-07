@@ -1,7 +1,7 @@
 {
-  "name": "este-app",
-  "description": "Robust and comfortable dev stack for isomorphic web apps",
-  "author": "Daniel Steigerwald",
+  "name": "react-immutable-flux-login-app",
+  "description": "Using Este.js to construct production app with React/ES6/Flux/Immutable",
+  "author": "Daniel Steigerwald & Tsung Hung",
   "version": "9.1.0",
   "private": true,
   "scripts": {
